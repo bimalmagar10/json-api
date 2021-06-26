@@ -1,0 +1,58 @@
+{
+  "products":[
+    {
+      "id":1,
+      "title":"Brown Jacket for Men - 100% durable",
+      "price":150,
+      "rating":4,
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
+      "img":"jacket.png",
+      "reviews":150
+    },
+    {
+      "id":2,
+      "title":"Inner Sleeves for Women - Nike Sleeves",
+      "price":10,
+      "rating":3,
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
+      "img":"tops.png",
+      "reviews":122
+    },
+    {
+      "id":3,
+      "title":"Black Jeans for Men - Levi's",
+      "price":50,
+      "rating":5,
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
+      "img":"pant.png",
+      "reviews":200
+    },
+    {
+      "id":4,
+      "title":"Sports Shoe for Men/Women - Nike",
+      "price":180,
+      "rating":4,
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
+      "img":"shoe.png",
+      "reviews":300
+    },
+    {
+      "id":5,
+      "title":"Red T-shirt for Men - 100% cotton",
+      "price":20,
+      "rating":3,
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
+      "img":"shirt.png",
+      "reviews":400
+    },
+    {
+      "id":6,
+      "title":"Brand New Apple iPhone 12 pro 256GB",
+      "price":1200,
+      "rating":4,
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
+      "img":"phone.png",
+      "reviews":10000
+    }
+  ],
+}
