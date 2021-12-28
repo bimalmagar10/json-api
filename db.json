@@ -54,5 +54,16 @@
       "img":"phone.png",
       "reviews":10000
     }
+  ],
+  "news":[
+    {
+      "hello":"hi"
+    },
+    {
+      "hello":"hi"
+    },
+    {
+      "hello":"hi"
+    }
   ]
 }
