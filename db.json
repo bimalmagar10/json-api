@@ -35,24 +35,6 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
       "img":"shoe.png",
       "reviews":300
-    },
-    {
-      "id":5,
-      "title":"Red T-shirt for Men - 100% cotton",
-      "price":20,
-      "rating":3,
-      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
-      "img":"shirt.png",
-      "reviews":400
-    },
-    {
-      "id":6,
-      "title":"Brand New Apple iPhone 12 pro 256GB",
-      "price":1200,
-      "rating":4,
-      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem quos alias, quas eum tenetur rerum tempore. Rem optio temporibus facere minima maiores harum, itaque quia officiis, perspiciatis, nemo magni.",
-      "img":"phone.png",
-      "reviews":10000
     }
   ],
   "news":[
@@ -253,6 +235,6 @@
 		title:"Chicken Tomorrow",
 		date:"January 1,2022",
 		description:`Hi bimal Thapa Magar.What you doin' mate?`
-	},
+	}
   ]
 }
